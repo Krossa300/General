@@ -1,2 +1,2 @@
-# general
+# General
 Main repository.
